@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohanad</h1>
-<h3 align="left">A passionate frontend developer from Palestine, I'm a student at Al-Azhar University, I don’t smoke. I mainly interested in Front-end web development with ReactJS</h3>
+<h6 align="left">A passionate frontend developer from Palestine, I'm a student at Al-Azhar University, I don’t smoke. I mainly interested in Front-end web development with ReactJS</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanadft&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadft" /> </p>
 
