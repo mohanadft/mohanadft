@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/watchers/mohanadft/mohanadft.svg" />
+  <img src="https://img.shields.io/github/stars/mohanadft/mohanadft.svg" />
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
