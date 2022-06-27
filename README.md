@@ -1,7 +1,9 @@
 
 
 ## 👋 &nbsp;Hey there! I'm Mohanad
-
+<div align="center">
+  <img src="https://img.shields.io/github/watchers/mohanadft/mohanadft.svg" />
+</div>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
