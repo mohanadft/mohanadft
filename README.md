@@ -21,8 +21,7 @@
 <br />
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/mohanadftryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohanadft&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
