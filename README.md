@@ -6,9 +6,10 @@
   <img src="https://img.shields.io/github/watchers/mohanadft/mohanadft.svg" />
   <img src="https://img.shields.io/github/stars/mohanadft/mohanadft.svg" />
   <img src="https://img.shields.io/github/followers/mohanadft.svg?style=social&label=Follow&maxAge=2592000" />
-  <br />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mohanadft&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohanadft&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
