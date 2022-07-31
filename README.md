@@ -64,9 +64,9 @@
 <br />
 <br />
 
-[<p align="center">
-<img src="https://www.codewars.com/users/Abd-Beltaji/badges/large" alt="codewars" />
-</p>](https://www.codewars.com/users/mohanadft/badges/micro)
+<p>
+  <img src="https://www.codewars.com/users/mohanadft/badges/micro" />
+  </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
