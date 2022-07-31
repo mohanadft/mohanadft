@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/github/watchers/mohanadft/mohanadft.svg" />
   <img src="https://img.shields.io/github/stars/mohanadft/mohanadft.svg" />
   <img src="https://img.shields.io/github/followers/mohanadft.svg?style=social&label=Follow&maxAge=2592000" />
+  <br />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mohanadft&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -20,8 +22,6 @@
 
 <br />
 <br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohanadft&ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
