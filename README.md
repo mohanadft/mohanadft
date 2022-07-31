@@ -21,6 +21,9 @@
 <br />
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?mohanadft=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
