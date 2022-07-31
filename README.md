@@ -29,7 +29,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ts,webpack,react,sass,java,c,git,github,markdown,python,redux" />
