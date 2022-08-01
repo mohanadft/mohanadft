@@ -32,7 +32,13 @@
 <br /><br /><br /><br /><br /><br /><br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,webpack,react,sass,java,c,git,github,markdown,python,redux,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,webpack,react" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=markdown,python,redux,nextjs" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,c,sass" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 <br />
