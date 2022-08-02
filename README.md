@@ -2,6 +2,7 @@
 
 ## 👋 &nbsp;Hello there! I'm Mohanad
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Mohanad%20Fteha&fontSize=90&animation=fadeIn)
 
 <div align="center">
   <img src="https://img.shields.io/github/watchers/mohanadft/mohanadft.svg" />
