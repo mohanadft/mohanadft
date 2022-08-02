@@ -3,7 +3,7 @@
 ## 👋 &nbsp;Hello there! I'm Mohanad
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&width=900&section=header&text=Mohanad%20Fteha&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&width=900&section=header&text=Mohanad%20Fteha%20💻&fontSize=70&animation=fadeIn" />
   </div>
 
 <div align="center">
