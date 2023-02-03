@@ -37,7 +37,7 @@
 </p>  
 
   
-<table style="height: 452px; width: 778px;" align="&quot;center">
+<table style="height: 452px; width: 778px;" align="center">
 <tbody>
 <tr style="height: 38px;">
 <td style="width: 203.264px; height: 38px;" align="center"><strong>&nbsp;Categories/Status</strong></td>
