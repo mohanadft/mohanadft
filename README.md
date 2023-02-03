@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohanad.</h1>  
-<p  align="center">
+<p align="center">
 
-<a  href="https://github.com/Ratheshan03/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Undergraduate;Backend+Web+Developer;Aspiring+Learner&;center=true&width=500&height=50"></a>
+<a  href="https://github.com/Ratheshan03/readme-typing-svg" align="center"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Undergraduate;Backend+Web+Developer;Aspiring+Learner&;center=true&width=500&height=50"></a>
 </p>
-<b><i>"---Always Work Hard and Trust the Process---"</i></b>
-
+<b align="center"><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanadft&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadft" /> </p>  
