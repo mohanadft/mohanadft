@@ -22,8 +22,10 @@
   
 - 📫 How to reach me **mohanadfteha@gmail.com**  
   
-- ⚡ Fun fact **I Like CHESS.**  
+- ⚡ Fun fact: **I Like CHESS.** 🨁
   
+<br/>
+
 ## Reach Me 🔭
 <p align="left">  
 <a href="https://dev.to/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohanadft" height="30" width="40" /></a>  
@@ -35,6 +37,8 @@
 <a href="https://codeforces.com/profile/mohanadfteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohanadfteha" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanadft" height="30" width="40" /></a>  
 </p>  
+<br />
+<br />
 
 ## Tech Stack 🔮 
 <table style="height: 452px; width: 778px;" align="center">
@@ -81,12 +85,11 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+
+## Github Stats 🕐
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanadft&show_icons=true&locale=en&layout=compact" alt="mohanadft" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanadft&show_icons=true&locale=en" alt="mohanadft" /></p>  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanadft&" alt="mohanadft" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohanadft&show_icons=true&locale=en" alt="mohanadft" width="450"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanadft" width="450" alt="mohanadft" /></p>
 
 
 ![Snake animation](https://github.com/mohanadft/mohanadft/blob/output/github-contribution-grid-snake.svg)
