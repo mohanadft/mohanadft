@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohanad.</h1>  
 <p align="center">
 	<a  href="https://github.com/Ratheshan03/readme-typing-svg" align="center">
-		<img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Undergraduate;Backend+Web+Developer;Aspiring+Learner&;&width=400&height=50" />
+		<img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Undergraduate;Backend+Web+Developer;Long+Life+Learner&;&width=400&height=50" />
 	</a>
 </p>
 </p>
