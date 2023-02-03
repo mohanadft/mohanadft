@@ -24,7 +24,7 @@
   
 - ⚡ Fun fact **I Like CHESS.**  
   
-<h3 align="left">Connect with me:</h3>  
+## Reach Me 🔭
 <p align="left">  
 <a href="https://dev.to/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohanadft" height="30" width="40" /></a>  
 <a href="https://twitter.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohanadft" height="30" width="40" /></a>  
@@ -36,7 +36,7 @@
 <a href="https://www.leetcode.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanadft" height="30" width="40" /></a>  
 </p>  
 
-  
+## Tech Stack 🔮 
 <table style="height: 452px; width: 778px;" align="center">
 <tbody>
 <tr style="height: 38px;">
