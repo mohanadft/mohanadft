@@ -105,9 +105,15 @@
 </tbody>
 </table>
 
+<br />
+
+
 ## Problem Solving 🧠
 [![LeetCode user mohanadft](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmohanadft&logo=leetcode&logoColor=yellow)](https://leetcode.com/mohanadft/)
 ![Codewars](https://www.codewars.com/users/mohanadft/badges/micro)
+
+<br />
+
 
 ## Github Stats 🕐
   
@@ -115,3 +121,10 @@
 
 
 ![Snake animation](https://github.com/mohanadft/mohanadft/blob/output/github-contribution-grid-snake.svg)
+
+<br />
+
+## The Long-Life Quote 🎈
+<p align="center">
+	<img src="https://www.azquotes.com/picture-quotes/quote-you-don-t-have-to-be-great-to-start-but-you-have-to-start-to-be-great-zig-ziglar-35-98-03.jpg" />
+</p>
