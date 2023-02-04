@@ -78,7 +78,7 @@
 	    <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb,firebase,sqlite" />
 </td>
 <td align="center">
-	 <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,cassandra,redis" />
+	 <img src="https://skillicons.dev/icons?i=kafka,cassandra,redis" />
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
     <img src="https://skillicons.dev/icons?i=git" />
 </td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,jest,aws" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,jest,aws,rabbitmq" />
 </td>
 </tr>
 </tbody>
