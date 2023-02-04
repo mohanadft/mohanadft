@@ -94,7 +94,7 @@
 <td align="center">&nbsp;</td>
 </tr>
 <tr>
-<td><strong>&nbsp;DevOps Techs</strong></td>
+<td align="center"><strong>&nbsp;DevOps Techs</strong></td>
 <td align="center">
     <img src="https://skillicons.dev/icons?i=git" />
 </td>
