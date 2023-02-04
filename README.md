@@ -45,61 +45,60 @@
 ## Tech Stack 🔮 
 <table style="height: 452px; width: 778px;" align="center">
 <tbody>
-<tr style="height: 38px;">
-<td style="width: 203.264px; height: 38px;" align="center"><strong>&nbsp;Categories/Status</strong></td>
-<td style="width: 316.424px; height: 38px;" align="center">
-<h5 dir="auto" align="center"><strong>Technologies used</strong></h5>
+<tr>
+<td align="center"><strong>&nbsp;Categories/Status</strong></td>
+<td align="center">
+<strong>Technologies used</strong>
 </td>
-<td style="width: 257.188px; height: 38px;" align="center">
-<h5 dir="auto" align="center"><strong>Looking Forward to Learn</strong></h5>
+<td align="center">
+<strong>Looking Forward to Learn</strong>
 </td>
 </tr>
-<tr style="height: 23px;">
-<td style="width: 203.264px; height: 23px;" align="center">&nbsp;<strong>Languages</strong></td>
-<td style="width: 316.424px; height: 23px;" align="center">
+<tr>
+<td align="center"><strong>Languages</strong></td>
+<td align="center">
 	 <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,cpp" />
 </td>
-<td style="width: 257.188px; height: 23px;" align="center">
+<td align="center">
 	 <img src="https://skillicons.dev/icons?i=bash" />
 </td>
 </tr>
-<tr style="height: 43px;">
-<td style="width: 203.264px; height: 43px;" align="center"><strong>Frameworks</strong></td>
-<td style="width: 316.424px; height: 43px;" align="center">
+<tr>
+<td align="center"><strong>Frameworks</strong></td>
+<td align="center">
 	<img src="https://skillicons.dev/icons?i=nodejs,nest,express" />
 </td>
-<td style="width: 257.188px; height: 43px;" align="center">
+<td align="center">
 	 <img src="https://skillicons.dev/icons?i=electron" />
 </td>
 </tr>
-<tr style="height: 52.4375px;">
-<td style="width: 203.264px; height: 52.4375px;" align="center"><strong>Databases</strong>&nbsp;&nbsp;</td>
-<td style="width: 316.424px; height: 52.4375px;" align="center">
+<tr>
+<td align="center"><strong>Databases</strong>&nbsp;&nbsp;</td>
+<td align="center">
 	    <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb,firebase,sqlite" />
 </td>
-<td style="width: 257.188px; height: 52.4375px;" align="center">
+<td align="center">
 	 <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,cassandra,redis" />
 </td>
 </tr>
-<tr style="height: 43px;">
-<td style="width: 203.264px; height: 43px;" align="center"><strong>Operating Systems&nbsp;</strong></td>
-<td style="width: 316.424px; height: 43px;" align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="linux" width="40" height="40" /></td>
-<td style="width: 257.188px; height: 43px;" align="center">&nbsp;</td>
+<tr>
+<td align="center"><strong>Operating Systems&nbsp;</strong></td>
+<td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="linux" width="40" height="40" /></td>
+<td align="center">&nbsp;</td>
 </tr>
-<tr style="height: 43px;">
-<td style="width: 203.264px; height: 43px;" align="center"><strong>Api's</strong>&nbsp;</td>
-<td style="width: 316.424px; height: 43px;" align="center">
+<tr>
+<td align="center"><strong>Api's</strong>&nbsp;</td>
+<td align="center">
 	<img src="https://skillicons.dev/icons?i=graphql" />
 </td>
-<td style="width: 257.188px; height: 43px;" align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
 </tr>
-<tr style="height: 45px;">
-<td style="width: 203.264px; height: 45px;" align="center"><strong>&nbsp;DevOps Techs</strong></td>
-<td style="width: 316.424px; height: 45px;" align="center">
+<tr>
+<td><strong>&nbsp;DevOps Techs</strong></td>
+<td align="center">
     <img src="https://skillicons.dev/icons?i=git" />
 </td>
-	
-<td style="width: 257.188px; height: 45px;" align="center">
+<td align="center">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,jest,aws" />
 </td>
 </tr>
