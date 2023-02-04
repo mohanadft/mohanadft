@@ -61,8 +61,12 @@
 </tr>
 <tr style="height: 43px;">
 <td style="width: 203.264px; height: 43px;" align="center"><strong>Frameworks</strong></td>
-<td style="width: 316.424px; height: 43px;" align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="&quot;https://raw.githubusercontent.com/devicons/devicon/ma" alt="" /></a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" /> </a></td>
-<td style="width: 257.188px; height: 43px;" align="center"><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a></td>
+<td style="width: 316.424px; height: 43px;" align="center">
+	<img src="https://skillicons.dev/icons?i=nodejs,nest,express" />
+</td>
+<td style="width: 257.188px; height: 43px;" align="center">
+	 <img src="https://skillicons.dev/icons?i=electron" />
+</td>
 </tr>
 <tr style="height: 52.4375px;">
 <td style="width: 203.264px; height: 52.4375px;" align="center"><strong>Databases</strong>&nbsp;&nbsp;</td>
