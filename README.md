@@ -81,13 +81,12 @@
 </tr>
 <tr style="height: 45px;">
 <td style="width: 203.264px; height: 45px;" align="center"><strong>&nbsp;DevOps Techs</strong></td>
-<td style="width: 316.424px; height: 45px;" align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a></td>
+<td style="width: 316.424px; height: 45px;" align="center">
+    <img src="https://skillicons.dev/icons?i=git" />
+</td>
+	
 <td style="width: 257.188px; height: 45px;" align="center">
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,jest,aws" />
-  </a>
-</p>
 </td>
 </tr>
 </tbody>
