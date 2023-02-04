@@ -56,8 +56,12 @@
 </tr>
 <tr style="height: 23px;">
 <td style="width: 203.264px; height: 23px;" align="center">&nbsp;<strong>Languages</strong></td>
-<td style="width: 316.424px; height: 23px;" align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a></td>
-<td style="width: 257.188px; height: 23px;" align="center">&nbsp;</td>
+<td style="width: 316.424px; height: 23px;" align="center">
+	 <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,cpp" />
+</td>
+<td style="width: 257.188px; height: 23px;" align="center">
+	 <img src="https://skillicons.dev/icons?i=bash" />
+</td>
 </tr>
 <tr style="height: 43px;">
 <td style="width: 203.264px; height: 43px;" align="center"><strong>Frameworks</strong></td>
