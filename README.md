@@ -88,7 +88,9 @@
 </tr>
 <tr style="height: 43px;">
 <td style="width: 203.264px; height: 43px;" align="center"><strong>Api's</strong>&nbsp;</td>
-<td style="width: 316.424px; height: 43px;" align="center"><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a></td>
+<td style="width: 316.424px; height: 43px;" align="center">
+	<img src="https://skillicons.dev/icons?i=graphql" />
+</td>
 <td style="width: 257.188px; height: 43px;" align="center">&nbsp;</td>
 </tr>
 <tr style="height: 45px;">
