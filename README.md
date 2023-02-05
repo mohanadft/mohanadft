@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanadft&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadft" /> </p>  
  
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=mohanadft&theme=onedark" />
+	<img src="https://github-profile-trophy.vercel.app/?username=mohanadft&theme=onedark" /> <br />
 	<img src="https://api.daily.dev/devcards/9b76afe8888540ac88b0eafff284e713.png?r=odv" width="250"/>
 </p>
 
