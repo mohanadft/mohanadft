@@ -9,11 +9,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanadft&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadft" /> </p>  
  
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=mohanadft&theme=onedark" /> <br />
+	<img src="https://github-profile-trophy.vercel.app/?username=mohanadft&theme=onedark" /> <br /><br />
 	<img src="https://api.daily.dev/devcards/9b76afe8888540ac88b0eafff284e713.png?r=odv" width="250"/>
 </p>
-
-<p align="center"> <a href="https://twitter.com/mohanadft" target="blank"><img src="https://img.shields.io/twitter/follow/mohanadft?logo=twitter&style=for-the-badge" alt="mohanadft" /></a> </p>  
   
 - 🌱 I’m currently learning **NestJS, Linux, Networking.**  
   
