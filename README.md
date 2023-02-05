@@ -10,6 +10,7 @@
  
 <p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=mohanadft&theme=onedark" />
+	<img src="https://api.daily.dev/devcards/9b76afe8888540ac88b0eafff284e713.png?r=odv" width="250"/>
 </p>
 
 <p align="center"> <a href="https://twitter.com/mohanadft" target="blank"><img src="https://img.shields.io/twitter/follow/mohanadft?logo=twitter&style=for-the-badge" alt="mohanadft" /></a> </p>  
@@ -26,9 +27,7 @@
   
 - ⚡ Fun fact: **I Like CHESS.** 🨁
 
-<p align="right"> 
-<img src="https://api.daily.dev/devcards/9b76afe8888540ac88b0eafff284e713.png?r=odv" width="250"/>
-</p>
+
   
 <br/>
 
