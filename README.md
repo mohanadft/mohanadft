@@ -25,6 +25,10 @@
 - 📫 How to reach me **mohanadfteha@gmail.com**  
   
 - ⚡ Fun fact: **I Like CHESS.** 🨁
+
+<p align="right"> 
+<img src="https://api.daily.dev/devcards/9b76afe8888540ac88b0eafff284e713.png?r=odv" />
+</p>
   
 <br/>
 
