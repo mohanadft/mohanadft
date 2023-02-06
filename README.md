@@ -23,7 +23,7 @@
   
 - 📫 How to reach me **mohanadfteha@gmail.com**  
   
-- ⚡ Fun fact: **I Like CHESS.** 🨁
+- ⚡ Fun fact: **I Like CHESS.** 🨁 [can we play?](https://www.chess.com/member/mohanedft)
 
 
   
