@@ -29,20 +29,6 @@
   
 <br/>
 
-## Reach Me 🔭
-<p align="left">  
-<a href="https://dev.to/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohanadft" height="30" width="40" /></a>  
-<a href="https://twitter.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohanadft" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/mohanad-fteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanad-fteha" height="30" width="40" /></a>  
-<a href="https://fb.com/mohaned.fteha.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaned.fteha.7" height="30" width="40" /></a>  
-<a href="https://instagram.com/mohaned.fte7a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaned.fte7a" height="30" width="40" /></a>  
-<a href="https://medium.com/@mohanadfteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohanadfteha" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/mohanadfteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohanadfteha" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanadft" height="30" width="40" /></a>  
-</p>  
-<br />
-<br />
-
 ## Tech Stack 🔮 
 <table style="height: 452px; width: 778px;" align="center">
 <tbody>
@@ -118,7 +104,26 @@
 
 ## Github Stats 🕐
   
-<img src="https://streak-stats.demolab.com/?user=mohanadft&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=[Y.]n.j" alt="mohanadft" /></p>
+<p align="center">
+	<img src="https://streak-stats.demolab.com/?user=mohanadft&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=[Y.]n.j" alt="mohanadft" />
+</p>
+
+<br />
+<br />
+
+## Reach Me 🔭
+<p align="left">  
+<a href="https://dev.to/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohanadft" height="30" width="40" /></a>  
+<a href="https://twitter.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohanadft" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/mohanad-fteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanad-fteha" height="30" width="40" /></a>  
+<a href="https://fb.com/mohaned.fteha.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaned.fteha.7" height="30" width="40" /></a>  
+<a href="https://instagram.com/mohaned.fte7a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaned.fte7a" height="30" width="40" /></a>  
+<a href="https://medium.com/@mohanadfteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohanadfteha" height="30" width="40" /></a>  
+<a href="https://codeforces.com/profile/mohanadfteha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohanadfteha" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/mohanadft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanadft" height="30" width="40" /></a>  
+</p>  
+<br />
+<br />
 
 
 ![Snake animation](https://github.com/mohanadft/mohanadft/blob/output/github-contribution-grid-snake.svg)
