@@ -118,7 +118,7 @@
 
 ## Github Stats 🕐
   
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mohanadft&show_icons=true&locale=en" alt="mohanadft" width="450"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanadft" width="450" alt="mohanadft" /></p>
+<img src="https://streak-stats.demolab.com/?user=mohanadft&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=[Y.]n.j" alt="mohanadft" /></p>
 
 
 ![Snake animation](https://github.com/mohanadft/mohanadft/blob/output/github-contribution-grid-snake.svg)
