@@ -65,7 +65,7 @@
 	    <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb,firebase,sqlite" />
 </td>
 <td align="center">
-	 <img src="https://skillicons.dev/icons?i=cassandra,redis" />
+	 <img src="https://skillicons.dev/icons?i=cassandra,redis,dynamodb" />
 </td>
 </tr>
 <tr>
