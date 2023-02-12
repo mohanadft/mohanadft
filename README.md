@@ -38,7 +38,7 @@
 <strong>Technologies used</strong>
 </td>
 <td align="center">
-<strong>Looking Forward to Learn</strong>
+<strong>Looking Forward to Learning</strong>
 </td>
 </tr>
 <tr>
