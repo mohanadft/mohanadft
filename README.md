@@ -47,7 +47,7 @@
 	 <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,cpp,bash" />
 </td>
 <td align="center">
-	  <img src="https://skillicons.dev/icons?i=rust" />
+	  <img src="https://skillicons.dev/icons?i=rust,php" />
 </td>
 </tr>
 <tr>
