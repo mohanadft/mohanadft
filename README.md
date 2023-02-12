@@ -76,7 +76,7 @@
 <tr>
 <td align="center"><strong>Api's</strong>&nbsp;</td>
 <td align="center">
-	<img src="https://skillicons.dev/icons?i=graphql" />
+	<img src="https://skillicons.dev/icons?i=graphql,apollo" />
 </td>
 <td align="center">&nbsp;</td>
 </tr>
