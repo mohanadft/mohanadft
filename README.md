@@ -56,7 +56,7 @@
 	<img src="https://skillicons.dev/icons?i=nodejs,nest,express" />
 </td>
 <td align="center">
-	 <img src="https://skillicons.dev/icons?i=electron" />
+	 <img src="https://skillicons.dev/icons?i=electron,tensorflow" />
 </td>
 </tr>
 <tr>
