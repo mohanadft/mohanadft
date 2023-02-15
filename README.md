@@ -83,10 +83,10 @@
 <tr>
 <td align="center"><strong>&nbsp;DevOps Techs</strong></td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git,jest" />
 </td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,jest,aws,rabbitmq,kafka,heroku" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,rabbitmq,kafka,heroku" />
 </td>
 </tr>
 </tbody>
