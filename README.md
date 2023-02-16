@@ -33,7 +33,7 @@
 <table style="height: 452px; width: 778px;" align="center">
 <tbody>
 <tr>
-<td align="center"><strong>&nbsp;Categories/Status</strong></td>
+<td align="center"><strong>&nbsp;Category/Status</strong></td>
 <td align="center">
 <strong>Technologies used</strong>
 </td>
