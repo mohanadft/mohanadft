@@ -35,10 +35,10 @@
 <tr>
 <td align="center"><strong>&nbsp;Category/Status</strong></td>
 <td align="center">
-<strong>Technologies used</strong>
+<strong>Currently used</strong>
 </td>
 <td align="center">
-<strong>Looking Forward to Learning</strong>
+<strong>Future Plan</strong>
 </td>
 </tr>
 <tr>
