@@ -80,6 +80,17 @@
 </td>
 <td align="center">&nbsp;</td>
 </tr>
+
+<tr>
+<td align="center"><strong>Text editors</strong>&nbsp;</td>
+<td align="center">
+	<img src="https://skillicons.dev/icons?i=vscode" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vim,neovim" />
+</td>
+</tr>
+
 <tr>
 <td align="center"><strong>&nbsp;DevOps Techs</strong></td>
 <td align="center">
