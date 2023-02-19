@@ -17,7 +17,7 @@
   
 - 🤝 I’m looking for help with [Cracking The Coding Interview](https://github.com/mohanadft/Cracking-The-Coding-Interview)  
   
-- 👨‍💻 All of my projects are available at [https://mohanadft.github.io/Mohanad-Portfolio/](https://mohanadft.github.io/Mohanad-Portfolio/)  
+- 👨‍💻 All of my projects will be available soon. 
   
 - 💬 Ask me about **NodeJS.**  
   
