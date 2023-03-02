@@ -97,7 +97,7 @@
     <img src="https://skillicons.dev/icons?i=git,jest" />
 </td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,rabbitmq,kafka,heroku" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,rabbitmq,kafka" />
 </td>
 </tr>
 </tbody>
