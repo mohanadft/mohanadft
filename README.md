@@ -108,6 +108,7 @@
 
 ## Problem Solving 🧠
 [![LeetCode user mohanadft](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmohanadft&logo=leetcode&logoColor=yellow)](https://leetcode.com/mohanadft/)
+![leetcode badge](https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif)
 ![Codewars](https://www.codewars.com/users/mohanadft/badges/micro)
 
 <br />
