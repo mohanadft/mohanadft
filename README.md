@@ -84,10 +84,9 @@
 <tr>
 <td align="center"><strong>Text editors</strong>&nbsp;</td>
 <td align="center">
-	<img src="https://skillicons.dev/icons?i=vscode" />
+	<img src="https://skillicons.dev/icons?i=vscode,vim,neovim" />
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vim,neovim" />
 </td>
 </tr>
 
