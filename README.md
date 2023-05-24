@@ -44,10 +44,10 @@
 <tr>
 <td align="center"><strong>Languages</strong></td>
 <td align="center">
-	 <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,cpp,bash" />
+	 <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,cpp,bash,php" />
 </td>
 <td align="center">
-	  <img src="https://skillicons.dev/icons?i=rust,php,wasm" />
+	  <img src="https://skillicons.dev/icons?i=rust,wasm" />
 </td>
 </tr>
 <tr>
