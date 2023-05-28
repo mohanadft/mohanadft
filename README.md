@@ -143,5 +143,5 @@
 
 ## The Long-Life Quote 🎈
 <p align="center">
-	<img src="https://www.azquotes.com/picture-quotes/quote-you-don-t-have-to-be-great-to-start-but-you-have-to-start-to-be-great-zig-ziglar-35-98-03.jpg" />
+	<img src="https://www.azquotes.com/picture-quotes/quote-welcome-all-experiences-you-never-know-which-one-is-gong-to-turn-everything-on-jim-rohn-86-22-34.jpg" />
 </p>
