@@ -62,7 +62,8 @@
 <tr>
 <td align="center"><strong>Databases</strong>&nbsp;&nbsp;</td>
 <td align="center">
-	    <img src="https://skillicons.dev/icons?i=prisma,postgres,mysql,mongodb,firebase,sqlite,redis" />
+	    <img src="https://skillicons.dev/icons?i=prisma,sequelize,postgres,mysql" />
+	<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite,redis" />
 </td>
 <td align="center">
 	 <img src="https://skillicons.dev/icons?i=cassandra,dynamodb" />
