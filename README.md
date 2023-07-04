@@ -95,10 +95,10 @@
 <tr>
 <td align="center"><strong>&nbsp;DevOps Techs</strong></td>
 <td align="center">
-	    <img src="https://skillicons.dev/icons?i=docker,git,jest" />
+	    <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,jest" />
 </td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,rabbitmq,kafka" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,kafka" />
 </td>
 </tr>
 </tbody>
