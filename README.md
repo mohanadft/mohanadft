@@ -1,9 +1,17 @@
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Mohanad Fteha</a></b>
+        </samp>
+</h3>
 
-<h1 align="center">Hi 👋, I'm Mohanad.</h1>  
-<p align="center">
-	<a  href="https://github.com/Ratheshan03/readme-typing-svg" align="center">
-		<img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Undergraduate;Backend+Web+Developer;Long+Life+Learner&;&width=400&height=50" />
-	</a>
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Mohanad+Fteha">「 Google Me 」</a>
+    <br>
+    「 A Backend Engineer from <b>Palestine 🇵🇸</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanadft&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadft" /> </p>  
@@ -118,7 +126,24 @@
 ## Github Stats 🕐
   
 <p align="center">
-	<img src="https://streak-stats.demolab.com/?user=mohanadft&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark&date_format=[Y.]n.j" alt="mohanadft" />
+	<p align="center">
+  <a href="https://github.com/mohanadft">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanadft&theme=radical&border=7F3FBF&background=0D1117" alt="Mohanad's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohanadft">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohanadft&theme=radical" alt="Mohanad's GitHub Contribution" width="100%"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/mohanadft"><img alt="Mohanad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohanadft&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%" height="180px"/></a>
+  <a href="https://github.com/mohanadft"><img alt="Mohanad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohanadft&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
+  <br/>
+</a>
+	
 </p>
 
 <br />
