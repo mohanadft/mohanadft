@@ -86,7 +86,7 @@
 <tr>
 <td align="center"><strong>Api's</strong>&nbsp;</td>
 <td align="center">
-	<img src="https://skillicons.dev/icons?i=graphql,apollo" />
+	<img src="https://skillicons.dev/icons?i=graphql,apollo,postman" />
 </td>
 <td align="center">&nbsp;</td>
 </tr>
@@ -97,6 +97,7 @@
 	<img src="https://skillicons.dev/icons?i=vscode,vim,neovim" />
 </td>
 <td align="center">
+	<img src="https://skillicons.dev/icons?i=emacs" />
 </td>
 </tr>
 
