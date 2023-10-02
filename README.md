@@ -170,5 +170,5 @@
 
 ## The Long-Life Quote 🎈
 <p align="center">
-	<img src="https://scontent.fgza4-1.fna.fbcdn.net/v/t39.30808-6/376735244_177771662008518_7414308813254536273_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=4c1e7d&_nc_ohc=3emRQvBDcEUAX_5oM7c&_nc_ht=scontent.fgza4-1.fna&oh=00_AfC8yMCwEKmfjzfGubw1FfEQRRu7OwvwuIgCsEG0Qudu5g&oe=65081C93" />
+	<img src="https://www.azquotes.com/picture-quotes/quote-theory-is-knowledge-that-doesn-t-work-practice-is-when-everything-works-and-you-don-hermann-hesse-77-88-70.jpg" />
 </p>
