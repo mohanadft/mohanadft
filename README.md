@@ -52,11 +52,11 @@
 <tr>
 <td align="center"><strong>Languages</strong></td>
 <td align="center">
-	    <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript" />
+	    <img src="https://skillicons.dev/icons?i=py,java,javascript,typescript,rust" />
 	<img src="https://skillicons.dev/icons?i=cpp,bash,php" />
 </td>
 <td align="center">
-	  <img src="https://skillicons.dev/icons?i=rust,wasm" />
+	  <img src="https://skillicons.dev/icons?i=wasm" />
 </td>
 </tr>
 <tr>
@@ -104,10 +104,10 @@
 <tr>
 <td align="center"><strong>&nbsp;DevOps Techs</strong></td>
 <td align="center">
-	    <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,jest" />
+	    <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,jest,aws" />
 </td>
 <td align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,kafka" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka" />
 </td>
 </tr>
 </tbody>
